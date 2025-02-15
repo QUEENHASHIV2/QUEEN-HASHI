@@ -15,7 +15,7 @@ AUTO_STICKER: process.env.AUTO_STICKER || "true", // true or false
 AUTO_REPLY: process.env.AUTO_REPLY || "true", // true or false
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true", // true or false
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true", // true or false
-ANTI_LINK: process.env.ANTI_LINK || "true", // true or false
+ANTI_LINK: process.env.ANTI_LINK || "false", // true or false
 ANTI_BAD: process.env.ANTI_BAD || "true",// true or false
 FAKE_RECORDING: process.env.FAKE_RECORDING || "true", // true or false
 AUTO_REACT: process.env.AUTO_REACT || "true", // true or false
